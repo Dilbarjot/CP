@@ -1,5 +1,5 @@
 /**
- ** Created by legionary on 2021-01-04
+ ** Created by dilbar on 2021-01-04
  ** https://codeforces.com/problemset/problem/71/A
  **/
 

@@ -1,6 +1,6 @@
 /**
  ** Created by dilbar on 2021-01-17
- ** Problem accessed at: https://www.hackerrank.com/challenges/repeated-string/problem
+ ** Problem: https://www.hackerrank.com/challenges/repeated-string/problem
  **/
 
 #include <bits/stdc++.h>

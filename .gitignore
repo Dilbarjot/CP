@@ -4,3 +4,5 @@ CMakeLists.txt
 */cmake-build-debug/*
 "External Libraries"/*
 */Dependencies/*
+C_Sharp_Solutions/Application/bin/
+C_Sharp_Solutions/Application/obj/*

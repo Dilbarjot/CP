@@ -34,8 +34,7 @@ namespace Application.HackerRank
     }
     public class PickingNumbers
     {
-
-        public static void main(string[] args)
+        public static void Main(string[] args)
         {
             List<int> l = new List<int>{0, 0, 1, 1, 2, 2, 3, 3, 4, 5};
             Console.WriteLine(Solution.pickingNumbers(l));

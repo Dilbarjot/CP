@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+// In progress
 namespace Application.HackerRank
 {
     class Solution

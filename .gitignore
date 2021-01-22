@@ -7,3 +7,4 @@ CMakeLists.txt
 C_Sharp_Solutions/Application/bin/
 C_Sharp_Solutions/Application/obj/*
 *.sln
+out/
